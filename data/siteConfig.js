@@ -6,12 +6,10 @@ module.exports = {
   twitterUsername: '',
   githubUsername: 'alexstulov',
   authorAvatar: '/images/avatar.jpg',
-  authorDescription: `Always interested in the work of programs from within. I started to study Pascal when I was in school. <br />
-    In 2012 I started trainee as a junior developer to make web interface for 3d models. Since then I develop web-sites all
-  the time: as a part-time job during study in the university; as a co-founder of a startup team; as a hired full-stack
-  specialist - I've always made web pages. And I like it!<br/>
-    Currently I'm working as full-stack web developer with <strong>Yii2 (PHP), MariaDB, RappidJS (Backbone.js), Grunt and Docker.</strong><br/>
-  Besides this I'm interested in React default stack: React+Jest+Webpack`,
+  authorDescription: `I was always interested in the programs and their structure from within. I began to study Pascal when I was 10.<br/>
+In 2012 I started trainee as a junior developer to make a web interface for 3d models. Since then I have been developing web sites all the time as a part-time job while getting my bachelor degree; as a co-founder of a startup team; as a hired full-stack specialist. And I definitely like it!<br/>
+Currently I'm working as a full-stack web developer with <strong>Yii2</strong>, <strong>MariaDB</strong>, <strong>RappidJS</strong>, <strong>Grunt</strong>, and <strong>Docker</strong>.<br/>
+Besides, I go in for React default stack: React + Jest + Webpack.`,
   skills: [
     { name: 'Yii2' },
     { name: 'Codeception' },
